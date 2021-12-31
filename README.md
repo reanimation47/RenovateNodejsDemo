@@ -1,4 +1,4 @@
-# Just a blank Nodejs + React project to demonstrate RenovateBot's auto dependency management.
+# A blank Nodejs + React project to demonstrate RenovateBot's auto dependency management.
 ------------------------------
 To install and run this project ( requires nodejs and npm installed ) :
 -------------------------------
