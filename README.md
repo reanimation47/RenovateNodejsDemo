@@ -2,7 +2,7 @@
 ------------------------------
 To install and run this project :
 -------------------------------
-1.Run git clone to local machine
+1.Run git clone to local machine </br>
 2.Run npm install create-react-app
 3.Run npm install --save react react-dom
 4.Run npm install
